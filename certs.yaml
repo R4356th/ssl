@@ -1696,10 +1696,6 @@ wikiknowledgerevolutioneu:
   url: 'wiki.knowledgerevolution.eu'
   ca: 'LetsEncrypt'
   disable_event: false
-telepediawikiorg:
-  url: 'telepedia-wiki.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 shirokous:
   url: 'shiroko.us'
   ca: 'LetsEncrypt'
